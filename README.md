@@ -1,6 +1,12 @@
 # EXP-5
 EXP. NO. 5. 		ZENER DIODE CHARACTERISTICS AND ZENER AS VOLTAGE REGULATOR
 
+
+Name:Nara Guna Susmitha
+
+Reg no:212224230176
+
+
 AIM
 . To find the Zener Break down voltage regulation condition.
 
@@ -31,10 +37,15 @@ OBSERVATIONS:
 
 REGULATION CHARACTERISTICS:
 
+<img width="1547" height="652" alt="Screenshot 2025-10-22 090104" src="https://github.com/user-attachments/assets/1c29ab61-a759-40e7-a5e0-d7e915828be0" />
+
+<img width="1547" height="687" alt="Screenshot 2025-10-22 090126" src="https://github.com/user-attachments/assets/e0c6cdbd-be48-41d8-bff3-706d85c2daa1" />
+
+
+
 V-I & REGULATION CHARACTERISTICS:
 
 PRECAUTIONS:
-
 1. While doing the experiment do not exceed the ratings of the zener diode. This may lead to damage the diode.
 2. Connect voltmeter and Ammeter in correct polarities as shown in the circuit diagram.
 
